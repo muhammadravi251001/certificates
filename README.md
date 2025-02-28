@@ -9,27 +9,27 @@ Here are some of my **key certifications** across various domains:
 ### 🤖 Artificial Intelligence & Cloud Computing  
 - 🎓 **[Microsoft] Certified: Azure AI Engineer Associate (AI-102)**  
   *Proficiency in designing, building, and deploying AI solutions on Azure.*  
-  🔗 **[View Details](/microsoft/README.md)**  
+  🔗 **[View Details](/microsoft/README.md#-microsoft-certified-azure-ai-engineer-associate-ai-102)**  
 
 - ☁️ **[Google] Associate Cloud Engineer Certification (ACE)**  
   *Expertise in deploying applications, monitoring operations, and managing enterprise solutions on Google Cloud.*  
-  🔗 **[View Details](/google/README.md)**  
+  🔗 **[View Details](/google/README.md#-associate-cloud-engineer-certification-ace)**  
 
 ### 📊 Data Analytics & Business Intelligence  
 - 📈 **[Google] Data Analytics Professional Certification**  
   *Mastering data visualization, SQL, and analytical tools to derive insights from data.*  
-  🔗 **[View Details](/google/README.md)**  
+  🔗 **[View Details](/google/README.md#-data-analytics-professional-certification)**  
 
 ### ☁️ Cloud & Infrastructure  
 - 🏅 **[Amazon] AWS Knowledge: Cloud Essentials**  
   *Fundamental understanding of AWS Cloud, architecture, and best practices.*  
-  🔗 **[View Details](/amazon/README.md)**  
+  🔗 **[View Details](/amazon/README.md#-amazon-certifications)**  
 
-- 🏆 **[Oracle] Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**  
+- 🏆 **[Oracle] Oracle Cloud Infrastructure AI Certified Foundations Associate**  
   *Demonstrating skills in Oracle Cloud Infrastructure (OCI), AI, and machine learning services.*  
-  🔗 **[View Details](/oracle/README.md)**  
+  🔗 **[View Details](/oracle/README.md#-oracle-cloud-infrastructure-2023-ai-certified-foundations-associate)**  
 
-🔍 *For the full list, check the respective folders below!*  
+🔍 *For the full list, check the respective folders below!*
 
 ## 📂 Repository Structure  
 
