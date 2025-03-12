@@ -5,7 +5,7 @@ This section contains details of my Microsoft certifications, including issue da
 ## 📜 Microsoft Certified: Azure AI Engineer Associate (AI-102)
 - 🆔 **Credential ID:** 2FCA56A5DB60C487
 - 📅 **Issued Date:** March 17, 2024
-- ⏳ **Expiration Date:** March 18, 2025
+- ⏳ **Expiration Date:** March 18, 2026
 - 🔗 **Verification Link:** [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/MuhammadRaviShulthanHabibi-1055/2FCA56A5DB60C487?sharingId=A411F73AAC7CCF52)
 - 📄 **See PDF:** [View Certification](microsoft_azure_ai_engineer_associate.pdf)
 
