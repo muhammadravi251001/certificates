@@ -1,6 +1,6 @@
 # 🎓 Certificates Repository  
 
-This repository contains a collection of my **43 professional certifications** (see [my website](https://muhammadravi251001.github.io/) also) from various (9) platforms, including Amazon, Cisco, Google, Microsoft, Oracle, and more. Each certification is stored in its respective folder with a dedicated **README.md** file containing details such as credential IDs, issuance dates, expiration dates, and verification links.
+This repository contains a collection of my **44 professional certifications** (see [my website](https://muhammadravi251001.github.io/) also) from various (9) platforms, including Amazon, Cisco, Google, Microsoft, Oracle, and more. Each certification is stored in its respective folder with a dedicated **README.md** file containing details such as credential IDs, issuance dates, expiration dates, and verification links.
 
 ## 🌟 Featured Certifications  
 
