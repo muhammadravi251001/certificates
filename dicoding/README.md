@@ -1,6 +1,13 @@
 # 🟦 Dicoding Certifications  
 
-This section contains details of my Dicoding certifications, including issue date, expiration date, and verification links.  
+This section contains details of my Dicoding certifications, including issue date, expiration date, and verification links.
+
+## 📜 Learn The Basics of AI
+- 🆔 **Credential ID:** N9ZO42RERZG5
+- 📅 **Issued Date:** August 03, 2025
+- ⏳ **Expiration Date:** -
+- 🔗 **Verification Link:** [View Credential](https://www.dicoding.com/certificates/98XWO6DOLZM3)
+- 📄 **See PDF:** [View Certification](learn_the_basics_of_AI.pdf)
 
 ## 📜 Machine Learning Operations (MLOps)
 - 🆔 **Credential ID:** 2VX3KJ473XYQ
