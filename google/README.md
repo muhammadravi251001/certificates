@@ -1,6 +1,13 @@
 # Google Certifications  
 
-This section contains details of my Google certifications, including issue date, expiration date, and verification links.  
+This section contains details of my Google certifications, including issue date, expiration date, and verification links.
+
+## Professional Data Engineer Certification (PDE)
+- **Credential ID:** b7edba17-298a-4b96-adca-e8299abd7495
+- **Issued Date:** September 16, 2025
+- **Expiration Date:** September 16, 2027
+- **Verification Link:** [View Credential](https://www.credly.com/badges/b7edba17-298a-4b96-adca-e8299abd7495/public_profile)
+- **See PDF:** [View Certification](google_professional_data_engineer.pdf)
 
 ## Associate Cloud Engineer Certification (ACE)
 - **Credential ID:** f6b200a7-16d8-4dbd-8864-fed1463351e6
@@ -8,7 +15,6 @@ This section contains details of my Google certifications, including issue date,
 - **Expiration Date:** February 23, 2028
 - **Verification Link:** [View Credential](https://www.credly.com/badges/f6b200a7-16d8-4dbd-8864-fed1463351e6/public_url)
 - **See PDF:** [View Certification](google_associate_cloud_engineer.pdf)
-- **Additional Badges:** [See All Badge](https://www.cloudskillsboost.google/public_profiles/5ef35651-ff26-45b2-be62-bdb417818551)
 
 ## Data Analytics Professional Certification
 - **Credential ID:** 23a2b825-44e5-456c-a06e-8ad3d1785e52
@@ -28,6 +34,6 @@ This section contains details of my Google certifications, including issue date,
   - [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/share/5040a3e3eeab3b4e81cfa349c1fdd3e3)
 
 ---
-**Note:** See my Google Developers profile [here](https://g.dev/muhammadravi251001), mainly about Google Android Developers and event badges.
+**Note:** See my Google Developers profile [here](https://g.dev/muhammadravi251001), mainly about Google Android Developers and event badges; and my Cloud Skill Boost profile [here](https://www.cloudskillsboost.google/public_profiles/5ef35651-ff26-45b2-be62-bdb417818551).
 
 For a complete list of my certifications, visit [Main README](../README.md).  
