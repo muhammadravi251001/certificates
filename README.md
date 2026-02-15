@@ -1,6 +1,6 @@
 # Certificates Repository  
 
-This repository contains a collection of my **46 professional certifications** (see [my website](https://muhammadravi251001.github.io/) also) from various (9) platforms, including Amazon, Cisco, Google, Microsoft, Oracle, and more. Each certification is stored in its respective folder with a dedicated **README.md** file containing details such as credential IDs, issuance dates, expiration dates, and verification links.
+This repository contains a collection of my **47 professional certifications** (see [my website](https://muhammadravi251001.github.io/) also) from various (9) platforms, including Amazon, Cisco, Google, Microsoft, Oracle, and more. Each certification is stored in its respective folder with a dedicated **README.md** file containing details such as credential IDs, issuance dates, expiration dates, and verification links.
 
 ## Featured Certifications  
 
@@ -19,10 +19,20 @@ Here are some of my **key certifications** across various domains:
 ### Data Analytics & Business Intelligence  
 - **[Google] Data Analytics Professional Certification**  
   *Mastering data visualization, SQL, and analytical tools to derive insights from data.*  
-  **[View Details](/google/README.md#-data-analytics-professional-certification)**  
+  **[View Details](/google/README.md#-data-analytics-professional-certification)**
+
+
+### Data Engineering 
+- **[Google] Professional Data Engineer Certification (PDE)**  
+  *Design and manage robust data pipelines to enable scalable, data-driven solutions.*  
+  **[View Details](/google/README.md#-pProfessional-data-engineer-certification)**  
 
 
 ### Cloud Computing & Infrastructure
+- **[Google] Professional Cloud Architect Certification (PCA)**  
+  *Architect and deploy secure, high-performance cloud solutions at enterprise scale.*  
+  **[View Details](/google/README.md#-professional-cloud-architect-certification)**
+
 - **[Google] Associate Cloud Engineer Certification (ACE)**  
   *Expertise in deploying applications, monitoring operations, and managing enterprise solutions on Google Cloud.*  
   **[View Details](/google/README.md#-associate-cloud-engineer-certification-ace)**

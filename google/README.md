@@ -2,6 +2,13 @@
 
 This section contains details of my Google certifications, including issue date, expiration date, and verification links.
 
+## Professional Cloud Architect Certification (PCA)
+- **Credential ID:** b7edba17-298a-4b96-adca-e8299abd7495
+- **Issued Date:** February 01, 2026
+- **Expiration Date:** February 01, 2028
+- **Verification Link:** [View Credential](https://www.credly.com/badges/81ef9c85-0747-4030-be47-a38fccb5c3ed/public_url)
+- **See PDF:** [View Certification](google_professional_cloud_architect.pdf.pdf)
+
 ## Professional Data Engineer Certification (PDE)
 - **Credential ID:** b7edba17-298a-4b96-adca-e8299abd7495
 - **Issued Date:** September 16, 2025
