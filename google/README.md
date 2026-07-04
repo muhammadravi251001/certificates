@@ -2,22 +2,29 @@
 
 This section contains details of my Google certifications, including issue date, expiration date, and verification links.
 
+## Generative AI Leader (GAIL)
+- **Credential ID:** c3ff001619dc4ece80f14fe840d5518b
+- **Issued Date:** July 04, 2026
+- **Expiration Date:** July 04, 2029
+- **Verification Link:** [View Credential](https://www.credly.com/badges/efa24052-4868-4bfc-bf0b-9e11c589a527/public_url)
+- **See PDF:** [View Certification](google_generative_ai_leader.pdf)
+
 ## Professional Cloud Architect Certification (PCA)
-- **Credential ID:** b7edba17-298a-4b96-adca-e8299abd7495
+- **Credential ID:** 7f62a2e6e8e044c294240738b08ea0f7
 - **Issued Date:** February 01, 2026
 - **Expiration Date:** February 01, 2028
 - **Verification Link:** [View Credential](https://www.credly.com/badges/81ef9c85-0747-4030-be47-a38fccb5c3ed/public_url)
 - **See PDF:** [View Certification](google_professional_cloud_architect.pdf)
 
 ## Professional Data Engineer Certification (PDE)
-- **Credential ID:** b7edba17-298a-4b96-adca-e8299abd7495
+- **Credential ID:** d275cddcc96a422f990ad88ca51bb729
 - **Issued Date:** September 16, 2025
 - **Expiration Date:** September 16, 2027
 - **Verification Link:** [View Credential](https://www.credly.com/badges/b7edba17-298a-4b96-adca-e8299abd7495/public_profile)
 - **See PDF:** [View Certification](google_professional_data_engineer.pdf)
 
 ## Associate Cloud Engineer Certification (ACE)
-- **Credential ID:** f6b200a7-16d8-4dbd-8864-fed1463351e6
+- **Credential ID:** 3974803f46164595b93383af9c2da81b
 - **Issued Date:** February 23, 2025
 - **Expiration Date:** February 23, 2028
 - **Verification Link:** [View Credential](https://www.credly.com/badges/f6b200a7-16d8-4dbd-8864-fed1463351e6/public_url)

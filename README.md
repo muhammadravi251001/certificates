@@ -1,6 +1,6 @@
 # Certificates Repository  
 
-This repository contains a collection of my **47 professional certifications** (see [my website](https://muhammadravi251001.github.io/) also) from various (9) platforms, including Amazon, Cisco, Google, Microsoft, Oracle, and more. Each certification is stored in its respective folder with a dedicated **README.md** file containing details such as credential IDs, issuance dates, expiration dates, and verification links.
+This repository contains a collection of my **48 professional certifications** (see [my website](https://muhammadravi251001.github.io/) also) from various (9) platforms, including Amazon, Cisco, Google, Microsoft, Oracle, and more. Each certification is stored in its respective folder with a dedicated **README.md** file containing details such as credential IDs, issuance dates, expiration dates, and verification links.
 
 ## Featured Certifications  
 
@@ -9,11 +9,15 @@ Here are some of my **key certifications** across various domains:
 ### Artificial Intelligence & Data Science
 - **[Microsoft] Certified: Azure AI Engineer Associate (AI-102)**  
   *Proficiency in designing, building, and deploying AI solutions on Azure.*  
-  **[View Details](/microsoft/README.md#-microsoft-certified-azure-ai-engineer-associate-ai-102)**  
+  **[View Details](/microsoft/README.md#-microsoft-certified-azure-ai-engineer-associate-ai-102)**
 
 - **[Microsoft] Certified: Azure Data Scientist Associate (DP-100)**  
   *Proficiency in designing, building, and deploying data science solutions on Azure.*  
-  **[View Details](/microsoft/README.md#-microsoft-certified-azure-data-scientist-associate-dp-100)**  
+  **[View Details](/microsoft/README.md#-microsoft-certified-azure-data-scientist-associate-dp-100)**
+
+- **[Google] Generative AI Leader (GAIL)**  
+  *Knowledge of generative AI concepts, applications, and responsible use.*  
+  **[View Details](/google/README.md#-generative-ai-leader)**
   
 
 ### Data Analytics & Business Intelligence  
